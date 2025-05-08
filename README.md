@@ -3,6 +3,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankon35&label=Profile%20views&color=0e75b6&style=flat" alt="ankon35" /> </p>
+
 # 💫 About Me:
 💻 I’m a passionate developer who loves turning ideas into code<br><br>🌐 I specialize in Web Development, Data Analysis, and Automation<br><br>🛠️ Tech I use: JavaScript | Python | Power BI | Excel | SQL | HTML & CSS<br><br>📊 I enjoy solving problems using Data & Code<br><br>🚀 Always open to collaborations and learning opportunities<br><br>🎯 Currently exploring AI-powered tools and open-source projects
 
