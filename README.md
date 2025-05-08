@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arafat Hossain Ankon</h1>
 <h3 align="center">I am Passionately Uncovering Insights through Data: The Journey of a Data Analyst</h3>
 
-![Ankon](.https://drive.google.com/file/d/1GCIIly7fZYF_Tho9-3t9UszDFeDatMvA/view?usp=sharing)
+![Ankon](./Banner%20(2).png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankon35&label=Profile%20views&color=0e75b6&style=flat" alt="ankon35" /> </p>
 
