@@ -107,8 +107,9 @@
 ---
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ankon35&title=Profile%20Visits&count_bg=%236A5ACD&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&edge_flat=true" alt="Visit Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=ankon35&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
 </p>
+
 
 
 ---
