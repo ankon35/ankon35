@@ -2,7 +2,7 @@
 <h3 align="center">I am Passionately Uncovering Insights through Data: The Journey of a Data Analyst</h3>
 
 <p align="center">
-  <img src="./Banner%20(2).png" alt="Ankon">
+  <img src="./banner.png" alt="Ankon">
 </p>
 
 
