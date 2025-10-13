@@ -14,7 +14,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=AI+Developer+%7C+Data+Analyst+%7C+Automation+Enthusiast;Turning+Data+%26+Code+into+Intelligent+Solutions;Always+Learning+New+Tech+and+Innovating" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=AI+Developer+%7C+Agentic+AI+%7C+Automation+Enthusiast;Turning+Data+%26+Code+into+Intelligent+Solutions;Always+Learning+New+Tech+and+Innovating" alt="Typing SVG" />
   </a>
 </p>
 
