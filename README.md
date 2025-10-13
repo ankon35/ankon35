@@ -8,8 +8,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankon35&label=Profile%20views&color=0e75b6&style=flat" alt="ankon35" /> </p>
 
-# 💫 About Me:
-💻 I’m a passionate developer who loves turning ideas into code<br><br>🌐 I specialize in Web Development, Data Analysis, and Automation<br><br>🛠️ Tech I use: JavaScript | Python | Power BI | Excel | SQL | HTML & CSS<br><br>📊 I enjoy solving problems using Data & Code<br><br>🚀 Always open to collaborations and learning opportunities<br><br>🎯 Currently exploring AI-powered tools and open-source projects
+# 💫 About Me
+
+🤖 I’m a passionate **AI Developer** who loves building intelligent systems that make life easier through automation and data-driven solutions.  
+
+🧠 I specialize in **Artificial Intelligence**, **Machine Learning**, **AI Agent**, and **Automation**.  
+
+🛠️ **Tech I use:** `Python` | `TensorFlow` | `PyTorch` | `LangChain` | `SQL` | `JavaScript` | `Power BI` | `Excel` | `HTML & CSS`  
+
+📊 I enjoy creating solutions that combine **data, algorithms, and creativity**.  
+
+🚀 Currently exploring **Generative AI**, **LLM applications**, and **AI automation tools**.  
+
+🤝 Always open to **collaborations**, **open-source contributions**, and **AI research opportunities**.
+
 
 
 ## 🌐 Socials:
