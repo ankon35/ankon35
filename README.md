@@ -4,7 +4,7 @@
   Hey there, I'm <span style="color:#00BFFF;">Arafat Hossain Ankon</span>
 </h1>
 <h3 align="center">
-  🚀 AI Developer | Data Analyst | Innovator
+  🚀 AI Developer | AI Agents | Automation
 </h3>
 
 <p align="center">
@@ -19,8 +19,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankon35&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ankon35&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
 </p>
+
 
 ---
 
