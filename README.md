@@ -108,8 +108,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankon35&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fankon35&count_bg=%237F00FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Visitor Counter"/>
 </p>
+
 
 
 
