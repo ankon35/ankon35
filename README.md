@@ -28,10 +28,15 @@
 ## 💫 About Me
 
 🤖 Passionate **AI Developer** building **intelligent, automated, and data-driven systems** that make life easier.  
+
 🧠 Skilled in **Machine Learning**, **LLMs**, **AI Agents**, and **Process Automation**.  
+
 🛠️ Tech I use:  `Python` | `TensorFlow` | `PyTorch` | `LangChain` | `SQL` | `JavaScript` | `Power BI` | `Excel` | `HTML & CSS`  
+
 📊 Love to blend **data + logic + creativity** for impactful results.  
+
 🚀 Exploring **Generative AI**, **AI Tools**, and **Agentic Automation**.  
+
 🤝 Open to **collaborations**, **AI research**, and **open-source projects**.
 
 ---
