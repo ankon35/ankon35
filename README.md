@@ -44,8 +44,11 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankonhossain/" target="_blank">
+  <a href="https://www.linkedin.com/in/ankonhossain1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://ankonhossain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="mailto:ankon35744@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
