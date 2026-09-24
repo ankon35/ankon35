@@ -79,19 +79,20 @@ Building digital products, web applications, and business automation solutions.
 
 ---
 
+**Jun 2025 — Present**
+
+### Executive - AI Engineer
+**Joint Venture AI**  
+Working on machine learning, NLP, RAG, and data processing solutions.
+
+
+---
+
 **Aug 2026 — Present**
 
 ### Teaching Assistant
 **Ostad**  
 Mentoring students in AI, machine learning, and automation through practical sessions and projects.
-
----
-
-**Jun 2025 — Present**
-
-### Junior AI Engineer
-**Joint Venture AI**  
-Working on machine learning, NLP, RAG, and data processing solutions.
 
 ---
 
