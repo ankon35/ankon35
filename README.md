@@ -25,19 +25,19 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
-🤖 Passionate **AI Developer** building **intelligent, automated, and data-driven systems** that make life easier.  
+Software Engineering graduate with a major in **Data Science** from Daffodil International University, with a **CGPA of 3.92/4.00**.
 
-🧠 Skilled in **Machine Learning**, **LLMs**, **AI Agents**, and **Process Automation**.  
+I build **web applications, software products, and business automation solutions** through my work at **Digital Garage**.
 
-🛠️ Tech I use:  `Python` | `TensorFlow` | `PyTorch` | `LangChain` | `SQL` | `JavaScript` | `Power BI` | `Excel` | `HTML & CSS`  
+Currently working as a **Teaching Assistant at Ostad**, where I mentor students in programming, data science, and machine learning.
 
-📊 Love to blend **data + logic + creativity** for impactful results.  
+Interested in **software engineering, data science, machine learning, and research**, with a focus on practical problem-solving.
 
-🚀 Exploring **Generative AI**, **AI Tools**, and **Agentic Automation**.  
+**Tech I use:** `Python` | `JavaScript` | `PyTorch` | `Scikit-learn` | `SQL` | `React` | `FastAPI` | `n8n` | `Git`
 
-🤝 Open to **collaborations**, **AI research**, and **open-source projects**.
+Open to **professional opportunities, research collaboration, and meaningful software projects**.
 
 ---
 
