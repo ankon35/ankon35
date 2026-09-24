@@ -27,17 +27,17 @@
 
 ## About Me
 
-Software Engineering graduate with a major in **Data Science** from Daffodil International University, with a **CGPA of 3.92/4.00**.
+- Software Engineering graduate with a major in **Data Science** from Daffodil International University, with a **CGPA of 3.92/4.00**.
 
-I build **web applications, software products, and business automation solutions** through my work at **Digital Garage**.
+- I build **web applications, software products, and business automation solutions** through my work at **Digital Garage**.
 
-Currently working as a **Teaching Assistant at Ostad**, where I mentor students in programming, data science, and machine learning.
+- Currently working as a **Executive - AI Engineer at Joint Venture AI** and a **Teaching Assistant at Ostad**, where I work on machine learning and data-driven solutions while mentoring students in programming, data science, and machine learning.
 
-Interested in **software engineering, data science, machine learning, and research**, with a focus on practical problem-solving.
+- Interested in **software engineering, data science, machine learning, and research**, with a focus on practical problem-solving.
 
-**Tech I use:** `Python` | `JavaScript` | `PyTorch` | `Scikit-learn` | `SQL` | `React` | `FastAPI` | `n8n` | `Git`
+- **Tech I use:** `Python` | `JavaScript` | `PyTorch` | `Scikit-learn` | `SQL` | `React` | `FastAPI` | `n8n` | `Git`
 
-Open to **professional opportunities, research collaboration, and meaningful software projects**.
+- Open to **professional opportunities, research collaboration, and meaningful software projects**.
 
 ---
 
