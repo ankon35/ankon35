@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Hey there, I'm <span style="color:#00BFFF;">Arafat Hossain Ankon</span>
+  Hey there, I'm <span style="color:#00BFFF;">Ankon Hossain</span>
 </h1>
 <h3 align="center">
   🚀 AI Developer | AI Agents | Automation
