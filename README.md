@@ -41,31 +41,25 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🎓 Academic Foundation
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankonhossain1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="https://ankonhossain.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="mailto:ankon35744@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
-  </a>
-</p>
+**Daffodil International University**
+
+### B.Sc. in Software Engineering (Data Science)
+
+**2021 — 2025 · CGPA: 3.92/4.00**
+
+Relevant coursework: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Distributed Systems, Data Structures & Algorithms, Database Engineering, Linear Algebra, and Statistics.
 
 ---
 
-## 🧠 Tech Stack
+## 🏆 Awards & Achievements
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,html,css,git,github,firebase,figma,anaconda,vscode,netlify" />
-</p>
+- **Dean's Award for Academic Excellence** — Achieved a perfect **4.00/4.00 CGPA** across three consecutive semesters.
+- **3-Minute Thesis (3MT) Finalist** — Selected as a university finalist for presenting medical AI research to a multidisciplinary audience.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,pandas,numpy,sklearn,matplotlib,powerbi,canva" />
-</p>
+
+
 
 ---
 
@@ -94,24 +88,6 @@ Working on machine learning, NLP, RAG, and data processing solutions.
 **Ostad**  
 Mentoring students in AI, machine learning, and automation through practical sessions and projects.
 
----
-
-## 🎓 Academic Foundation
-
-**Daffodil International University**
-
-### B.Sc. in Software Engineering (Data Science)
-
-**2021 — 2025 · CGPA: 3.92/4.00**
-
-Relevant coursework: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Distributed Systems, Data Structures & Algorithms, Database Engineering, Linear Algebra, and Statistics.
-
----
-
-## 🏆 Awards & Achievements
-
-- **Dean's Award for Academic Excellence** — Achieved a perfect **4.00/4.00 CGPA** across three consecutive semesters.
-- **3-Minute Thesis (3MT) Finalist** — Selected as a university finalist for presenting medical AI research to a multidisciplinary audience.
 
 ---
 
@@ -126,6 +102,37 @@ Focused on improving the reliability of medical image classification by studying
 - **Standard AUC Evaluation Cannot Detect Shortcut Learning in Medical Image Classifiers** — A controlled cross-domain study on why high in-distribution performance can fail to generalize across different clinical settings.
 - **The Illusion of Accuracy** — Investigating how augmentation-induced data leakage can inflate reported model performance and proposing stricter validation practices.
 
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,html,css,git,github,firebase,figma,anaconda,vscode,netlify" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sql,pandas,numpy,sklearn,matplotlib,powerbi,canva" />
+</p>
+
+---
+
+
+
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankonhossain1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://ankonhossain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="mailto:ankon35744@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+  </a>
+</p>
 
 ---
 
