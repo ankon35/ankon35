@@ -69,16 +69,29 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Professional Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankon35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ankon35&theme=tokyonight&hide_border=true" height="150" />
-</p>
+**2024 — Present**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankon35&theme=tokyonight&hide_border=true&layout=compact" height="150" />
-</p>
+### Founder & Technical Lead
+**[Digital Garage](https://digitalgarage.solutions/)**  
+Building digital products, web applications, and business automation solutions.
+
+---
+
+**Aug 2026 — Present**
+
+### Teaching Assistant
+**Ostad**  
+Mentoring students in AI, machine learning, and automation through practical sessions and projects.
+
+---
+
+**Jun 2025 — Present**
+
+### Junior AI Engineer
+**Joint Venture AI**  
+Working on machine learning, NLP, RAG, and data processing solutions.
 
 ---
 
