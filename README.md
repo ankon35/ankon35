@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="./Ankon-Profile.png" alt="Ankon Banner" width="80%">
+  <img src="./Ankon-Profile.png" alt="Ankon Banner" width="900" height="300">
 </p>
 
 <!-- Typing Animation -->
