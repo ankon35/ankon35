@@ -105,17 +105,8 @@ Focused on improving the reliability of medical image classification by studying
 
 ---
 
-## 🧠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,html,css,git,github,firebase,figma,anaconda,vscode,netlify" />
-</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,pandas,numpy,sklearn,matplotlib,powerbi,canva" />
-</p>
-
----
 
 
 
