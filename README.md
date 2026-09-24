@@ -96,35 +96,35 @@ Mentoring students in AI, machine learning, and automation through practical ses
 
 ---
 
-## 🏆 Achievements
+## 🎓 Academic Foundation
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankon35&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+**Daffodil International University**
 
----
+### B.Sc. in Software Engineering (Data Science)
 
-## 💡 Inspirational Quote
+**2021 — 2025 · CGPA: 3.92/4.00**
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
+Relevant coursework: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Distributed Systems, Data Structures & Algorithms, Database Engineering, Linear Algebra, and Statistics.
 
 ---
 
-## 🔝 Top Contributed Repos
+## 🏆 Awards & Achievements
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ankon35&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repos" />
-</p>
+- **Dean's Award for Academic Excellence** — Achieved a perfect **4.00/4.00 CGPA** across three consecutive semesters.
+- **3-Minute Thesis (3MT) Finalist** — Selected as a university finalist for presenting medical AI research to a multidisciplinary audience.
 
 ---
 
-## ⚙️ Fun Animation Zone
+## 🔬 Research
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
-</p>
+### Trustworthy Medical AI & Shortcut Learning
+
+Focused on improving the reliability of medical image classification by studying shortcut learning, cross-domain generalization, and data leakage.
+
+**Current research includes:**
+
+- **Standard AUC Evaluation Cannot Detect Shortcut Learning in Medical Image Classifiers** — A controlled cross-domain study on why high in-distribution performance can fail to generalize across different clinical settings.
+- **The Illusion of Accuracy** — Investigating how augmentation-induced data leakage can inflate reported model performance and proposing stricter validation practices.
 
 
 ---
